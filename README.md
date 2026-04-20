@@ -6,4 +6,4 @@
 
 ## 📊 Stats
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vdoelcekm&show_icons=true&theme=dark&locale=en" alt="vdolecekm" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vdolecekm&show_icons=true&theme=dark&locale=en" alt="vdolecekm" /></p>
