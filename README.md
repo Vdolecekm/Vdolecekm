@@ -6,4 +6,4 @@
 
 ## 📊 Stats
 
-[![Max's GitHub Stats](https://github-readme-stats-wheat-phi.vercel.app/api?username=Vdolecekm&show_icons=true&theme=vue)](https://github.com/Vdolecekm/github-readme-stats)
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vdoelcekm&show_icons=true&theme=dark&locale=en" alt="vdolecekm" /></p>
